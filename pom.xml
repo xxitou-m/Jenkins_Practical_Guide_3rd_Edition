@@ -44,8 +44,10 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     
     <!-- Maven Properties -->
-    <maven-compiler.version>3.6.1</maven-compiler.version>
-    <maven-site.version>3.6.1</maven-site.version>
+<!--    <maven-compiler.version>3.6.1</maven-compiler.version>-->
+<!--    <maven-site.version>3.6.1</maven-site.version>-->
+    <maven-compiler.version>3.9.0</maven-compiler.version>
+    <maven-site.version>3.9.0</maven-site.version>
     <maven-surefire-report.version>2.20</maven-surefire-report.version>
     <maven-war.version>3.0.0</maven-war.version>
     
@@ -64,7 +66,8 @@
     <findbugs-maven.version>3.0.4</findbugs-maven.version>
     
     <!-- JaCoCo Properties -->
-    <jacoco-maven.version>0.7.9</jacoco-maven.version>
+<!--    <jacoco-maven.version>0.7.9</jacoco-maven.version>-->
+    <jacoco-maven.version>0.8.8</jacoco-maven.version>
     <jacoco.include.package>**/*</jacoco.include.package>
   </properties>
   
